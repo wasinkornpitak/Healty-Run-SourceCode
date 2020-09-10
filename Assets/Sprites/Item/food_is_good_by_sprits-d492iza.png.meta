@@ -1,0 +1,472 @@
+fileFormatVersion: 2
+guid: d2bf9f80e25cc3347b484cb7933bf99c
+timeCreated: 1518427209
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: food_is_good_by_sprits-d492iza_0
+    21300002: food_is_good_by_sprits-d492iza_1
+    21300004: food_is_good_by_sprits-d492iza_2
+    21300006: food_is_good_by_sprits-d492iza_3
+    21300008: food_is_good_by_sprits-d492iza_4
+    21300010: food_is_good_by_sprits-d492iza_5
+    21300012: food_is_good_by_sprits-d492iza_6
+    21300014: food_is_good_by_sprits-d492iza_7
+    21300016: food_is_good_by_sprits-d492iza_8
+    21300018: food_is_good_by_sprits-d492iza_9
+    21300020: food_is_good_by_sprits-d492iza_10
+    21300022: food_is_good_by_sprits-d492iza_11
+    21300024: food_is_good_by_sprits-d492iza_12
+    21300026: food_is_good_by_sprits-d492iza_13
+    21300028: food_is_good_by_sprits-d492iza_14
+    21300030: food_is_good_by_sprits-d492iza_15
+    21300032: food_is_good_by_sprits-d492iza_16
+    21300034: food_is_good_by_sprits-d492iza_17
+    21300036: food_is_good_by_sprits-d492iza_18
+    21300038: food_is_good_by_sprits-d492iza_19
+    21300040: food_is_good_by_sprits-d492iza_20
+    21300042: food_is_good_by_sprits-d492iza_21
+    21300044: food_is_good_by_sprits-d492iza_22
+    21300046: food_is_good_by_sprits-d492iza_23
+    21300048: food_is_good_by_sprits-d492iza_24
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 334
+        width: 167
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 471
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 434
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 421
+        width: 194
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 404
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 321
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 316
+        width: 90
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 334
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 234
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 271
+        width: 82
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_10
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 241
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_11
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 224
+        width: 140
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 169
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 125
+        width: 108
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 107
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_15
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 144
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_16
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 124
+        width: 106
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 91
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 22
+        width: 167
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 25
+        width: 109
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_20
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 16
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_21
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 66
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_22
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 68
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_23
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 36
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: food_is_good_by_sprits-d492iza_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 21
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
